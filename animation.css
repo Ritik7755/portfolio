@@ -4,27 +4,7 @@ BACKGROUND ANIMATION
 
 body::before{
 
-    content:"";
-
-    position:fixed;
-
-    width:650px;
-
-    height:650px;
-
-    border-radius:50%;
-
-    background:rgba(0,245,255,.08);
-
-    filter:blur(130px);
-
-    top:-180px;
-
-    left:-180px;
-
-    animation:moveOne 12s ease-in-out infinite;
-
-    z-index:-5;
+    display:none;
 
 }
 
@@ -40,7 +20,7 @@ body::after{
 
     border-radius:50%;
 
-    background:rgba(139,92,246,.10);
+    background:#171717;
 
     filter:blur(130px);
 

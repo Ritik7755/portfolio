@@ -37,7 +37,7 @@ HERO SECTION
 
     border-radius:50px;
 
-    background:rgba(0,245,255,.08);
+    background:#171717;
 
     color:var(--primary);
 
@@ -275,7 +275,7 @@ Right Side
 
     height:170px;
 
-    background:rgba(255,255,255,.05);
+    background:#171717;
 
     backdrop-filter:blur(20px);
 

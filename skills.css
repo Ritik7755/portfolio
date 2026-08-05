@@ -24,7 +24,7 @@ SKILL CARD
 
 .skill-card{
 
-    background:rgba(255,255,255,.05);
+    background:#171717;
 
     border:1px solid rgba(255,255,255,.08);
 
@@ -60,7 +60,7 @@ SKILL CARD
 
     border-radius:50%;
 
-    background:rgba(0,245,255,.15);
+    background:#171717;
 
     top:-120px;
 

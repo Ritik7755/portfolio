@@ -20,7 +20,7 @@ PROJECT SECTION
 
 .project-card{
 
-    background:rgba(255,255,255,.05);
+    background:#171717;
 
     border:1px solid rgba(255,255,255,.08);
 
@@ -86,8 +86,7 @@ PROJECT SECTION
 
     border-radius:50px;
 
-    background:rgba(0,245,255,.12);
-
+    background:#171717;
     color:var(--primary);
 
     margin-bottom:18px;
@@ -483,7 +482,7 @@ FEATURED CARD ANIMATION
 
     height:500px;
 
-    background:rgba(0,245,255,.05);
+    background:#171717;
 
     border-radius:50%;
 
